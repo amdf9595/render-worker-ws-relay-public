@@ -2,4 +2,5 @@ node_modules/
 .env
 .env.*
 !.env.example
+.relay_token
 .DS_Store
